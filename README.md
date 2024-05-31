@@ -19,13 +19,21 @@ To build a model that predicts the popularity of a YouTube video based on factor
 
 7. Fine-tuning and Optimization: Fine-tune the model by experimenting with different hyperparameters and feature combinations. Consider techniques like cross-validation, grid search to optimize the model's performance.
 
-8. Predicting Popularity: Use the trained model to predict the popularity of new YouTube videos based on their attributes. Provide insights and recommendations to content creators on optimizing video attributes to improve engagement and popularity.
+9. Predicting Popularity: Use the trained model to predict the popularity of new YouTube videos based on their attributes. Provide insights and recommendations to content creators on optimizing video attributes to improve engagement and popularity.
+
+
 # Key Milestones
 . Milestone 1: Collect data
+
 . Milestone 2: Data Preprocessing
+
 . Milestone 3: Exploratory Data Analysis 
+
 . Milestone 4: Development of Predictive model without interactions
+
 . Milestone 5: Development of Predictive model with interactions
+
 . Milestone 6: Final report and presentation of findings
 
-[Link to kaggle dataset]: (https://www.kaggle.com/datasets/asaniczka/trending-youtube-videos-113-countries).
+
+[Link to kaggle dataset](https://www.kaggle.com/datasets/asaniczka/trending-youtube-videos-113-countries).
